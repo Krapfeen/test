@@ -1,4 +1,4 @@
----
+
 name: CI template
 about: Задача по ведению CI/CD
 title: "[CI]: "
@@ -62,6 +62,4 @@ body:
           options:
               - label: I agree to follow this project's Code of Conduct
                 required: true
-
----
 
