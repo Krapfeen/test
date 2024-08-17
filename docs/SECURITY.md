@@ -1,17 +1,19 @@
-# Reporting Security Issues
+# Security
 
-The Electron team and community take security bugs in Electron seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+## Data Protection
+Your privacy is very important to us. We make every effort to protect your data from unauthorized access, use or disclosure. We use encryption to protect your information during transmission and storage.
 
-To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/electron/electron/security/advisories/new) tab.
+## Phishing and Social Engineering
+Be careful with phishing attacks and social engineering. Never share your passwords or other confidential information via email or through social networks. If you receive a suspicious message, contact our support team.
 
-The Electron team will send a response indicating the next steps in handling your report. After the initial reply to your report, the security team will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
+## Software Updates
+Regularly update your software to protect yourself from known vulnerabilities. We also recommend using antivirus software and a firewall for additional protection.
 
-Report security bugs in third-party modules to the person or team maintaining the module. You can also report a vulnerability through the [npm contact form](https://www.npmjs.com/support) by selecting "I'm reporting a security vulnerability".
+## Data Storage
+We store your data on secure servers that are under our control. Access to these servers is limited and controlled.
 
-## The Electron Security Notification Process
+## Liability
+We are not responsible for the loss or theft of your data as a result of security breaches if they were not caused by us.
 
-For context on Electron's security notification process, please see the [Notifications](https://github.com/electron/governance/blob/main/wg-security/membership-and-notifications.md#notifications) section of the Security WG's [Membership and Notifications](https://github.com/electron/governance/blob/main/wg-security/membership-and-notifications.md) Governance document.
-
-## Learning More About Security
-
-To learn more about securing an Electron application, please see the [security tutorial](docs/tutorial/security.md).
+## Contact Information
+If you have any questions or problems related to security, please contact our support team at [Andrew Schaefer](mailto:theAndrewSchaefer@gmail.com).
