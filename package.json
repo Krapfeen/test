@@ -1,5 +1,6 @@
 {
-  "name": "krapfeen/tpl-repository",
+  "name": "Andrew Schaefer",
+  "email": "theAndrewSchaefer@gmail.com",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
