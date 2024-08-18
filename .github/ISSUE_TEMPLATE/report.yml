@@ -1,10 +1,10 @@
 name: Bug Report
 description: File a bug report.
-title: "[Bug]: "
+title: "[Bug]: <title>"
 labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+projects: ["Krapfeen/6"]
 assignees:
-  - octocat
+  - Krapfeen
 body:
   - type: markdown
     attributes:
