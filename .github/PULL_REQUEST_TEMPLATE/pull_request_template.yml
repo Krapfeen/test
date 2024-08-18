@@ -1,4 +1,4 @@
- name: Pull Request
+name: Pull Request
 description: File a bug report.
 title: "[Bug]: <title>"
 labels: ["bug", "triage"]
