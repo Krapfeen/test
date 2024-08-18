@@ -1,31 +1,64 @@
----
-title: 38-Cloud
-homepage: https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset
-category: EarthScience
-description: Contains 38 Landsat 8 scene images and their manually extracted pixel-level ground truths for cloud detection. They are cropped into multiple 384*384 patches. It has 8400 patches for training and 9201 patches for testing.
-version: 1.0
-keywords: Landsat 8, cloud detection, image segmentation, semantic segmentation.
-image: https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset/blob/master/sample/blue_patch_192_10_by_12_LC08_L1TP_002053_20160520_20170324_01_T1.jpg
-temporal:
-spatial: 384*384
-access_level: public
-copyrights:
-accrual_periodicity: 
-specification:
-data_quality: false
-data_dictionary: 
-language: en
-license: Apache License
-publisher:
-  - name: 
-    web: 
-organization:
-  - name: Laboratory for Robotic Vision (LRV), School of Engineering Science, Simon Fraser University, Canada
-    web: 
-issued_time: 2019.02
-sources:
-  - name: 
-    access_url: 
-references:
-  - title: 
-    reference: 
+ name: Pull Request
+description: File a bug report.
+title: "[Bug]: <title>"
+labels: ["bug", "triage"]
+projects: ["Krapfeen/6"]
+assignees:
+  - Krapfeen
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
