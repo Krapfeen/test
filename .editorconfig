@@ -1,0 +1,16 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = tab
+tab_width = 4
+insert_final_newline = true
+
+# Matches the exact files either JSON and YAML
+[*.{json, yml, yaml}]
+indent_style = space
+indent_size = 2
