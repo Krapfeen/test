@@ -62,12 +62,42 @@
 							"hidden": false
 						},
 						{
-							"type": "chore",
+							"type": "style",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "refactor",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "perf",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "test",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "build",
 							"section": "Miscellaneous Chores",
 							"hidden": false
 						},
 						{
 							"type": "ci",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "chore",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						},
+						{
+							"type": "revert",
 							"section": "Miscellaneous Chores",
 							"hidden": false
 						}
