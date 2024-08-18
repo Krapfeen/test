@@ -66,6 +66,11 @@
 							"section": "Miscellaneous Chores",
 							"hidden": false
 						}
+						{
+							"type": "ci",
+							"section": "Miscellaneous Chores",
+							"hidden": false
+						}
 					]
 				},
 				"parserOpts": {
