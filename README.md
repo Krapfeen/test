@@ -9,6 +9,8 @@
 > You need to make edits to this repository in order to continue working correctly
 
 ```bash
+
+npm install
 git reset HEAD~1
 git add .
 git commit -m 'init: create repository'
