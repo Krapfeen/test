@@ -5,6 +5,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/krapfeen/test)
 ![GitHub Tag](https://img.shields.io/github/v/tag/krapfeen/test)
 
+> [!WARNING]
+> You need to make edits to this repository in order to continue working correctly
+
 ```bash
 git reset HEAD~1
 git add .
