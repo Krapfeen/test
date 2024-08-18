@@ -5,3 +5,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/krapfeen/test)
 ![GitHub Tag](https://img.shields.io/github/v/tag/krapfeen/test)
 
+```bash
+git reset HEAD~1
+git add .
+git commit -m 'init: create repository'
+```
