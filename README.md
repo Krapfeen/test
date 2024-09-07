@@ -32,7 +32,7 @@ git push --force
 ```mermaid
 flowchart LR
     main-->develop
-    main-->hotfix
+    hotfix-->main
     hotfix-->develop
     develop-->feature
 ```
