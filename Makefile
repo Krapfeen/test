@@ -1,5 +1,5 @@
 init:
-	@git reset HEAD~1
+	@git update-ref -d HEAD
 	@git add .
 	@git commit -m 'init: create repository'
 	@git push
