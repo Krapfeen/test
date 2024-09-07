@@ -33,5 +33,6 @@ git push --force
 flowchart LR
     main-->develop
     main-->hotfix
+    hotfix-->develop
     develop-->feature
 ```
