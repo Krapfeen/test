@@ -1,8 +1,3 @@
-![Build Status](https://github.com/Krapfeen/test/workflows/Release/badge.svg)
-![GitHub License](https://img.shields.io/github/license/Krapfeen/test)
-![GitHub Release](https://img.shields.io/github/v/release/krapfeen/test)
-![GitHub repo size](https://img.shields.io/github/repo-size/krapfeen/test)
-![GitHub Tag](https://img.shields.io/github/v/tag/krapfeen/test)
 ![example workflow](https://github.com/krapfeen/test/workflows/Release/badge.svg)
 
 # Tamplate of repository
